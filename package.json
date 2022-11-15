@@ -1,0 +1,23 @@
+{
+  "name": "dhruv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhruvbits1/Dhruv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhruvbits1/Dhruv/issues"
+  },
+  "homepage": "https://github.com/Dhruvbits1/Dhruv#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "one-liner-joke": "^1.2.2"
+  }
+}
